@@ -1,4 +1,4 @@
-#Calculate
+<h1>Calculate</h1>
 <hr>
 <p>
 a simple Text-based application for calculating the Mean, Median, Mode, Range, and standard deviation of a
